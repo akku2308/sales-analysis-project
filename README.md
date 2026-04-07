@@ -11,7 +11,7 @@
 ---
 
 ### 2. Top 10 Products by Revenue
-![Top Products](Graph2.png)
+![Top Products](Graph.2.png)
 
 - This chart displays the top 10 products based on revenue.
 - "Canon imageCLASS 2200" is the highest-selling product.
@@ -21,7 +21,7 @@
 ---
 
 ### 3. Daily Sales Distribution
-![Daily Sales](Graph3.png)
+![Daily Sales](Graph.3.png)
 
 - This time series graph shows daily sales fluctuations.
 - There are multiple peaks indicating high sales days.
@@ -31,7 +31,7 @@
 ---
 
 ### 4. Monthly Sales Trend (2015–2018)
-![Monthly Trend](Graph4.png)
+![Monthly Trend](Graph.4.png)
 
 - This graph shows monthly sales trends over multiple years.
 - Sales consistently increase during the Q4 period (Sep–Dec).
@@ -41,7 +41,7 @@
 ---
 
 ### 5. Yearly Sales Growth
-![Yearly Growth](Graph5.png)
+![Yearly Growth](Graph.5.png)
 
 - This graph shows total yearly sales growth.
 - Sales have increased significantly from 2017 to 2018.
